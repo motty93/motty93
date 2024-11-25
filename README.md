@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:lapras-card-->
-
+<p ><a href="https://lapras.com/public/2RTLJAV" target="_blank" rel="noopener noreferrer"><img alt="2RTLJAVのLAPRASでのスコアは次の通りです: エンジニアリング: 3.94 / 5.0, ビジネス: 3.72 / 5.0, インフルエンス: 3.34 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.94&b=3.72&i=3.34&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
+Last Updated on 11/25/2024, 1:51:51 AM</p>
 <!--END_SECTION:lapras-card-->
 
