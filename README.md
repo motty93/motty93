@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/2RTLJAV" target="_blank" rel="noopener noreferrer"><img alt="2RTLJAVのLAPRASでのスコアは次の通りです: エンジニアリング: 3.94 / 5.0, ビジネス: 3.72 / 5.0, インフルエンス: 3.34 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.94&b=3.72&i=3.34&b1=%2392a09a&b2=%2321a108&i1=%23367d5c&i2=%231fd13d&l=ja" width="400" ></a>  
-Last Updated on 12/23/2024, 12:54:09 AM</p>
+<p ><a href="https://lapras.com/public/2RTLJAV" target="_blank" rel="noopener noreferrer"><img alt="2RTLJAVのLAPRASでのスコアは次の通りです: エンジニアリング: 3.95 / 5.0, ビジネス: 3.72 / 5.0, インフルエンス: 3.34 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.95&b=3.72&i=3.34&b1=%2392a09a&b2=%2321a108&i1=%23367d5c&i2=%231fd13d&l=ja" width="400" ></a>  
+Last Updated on 12/24/2024, 12:52:37 AM</p>
 <!--END_SECTION:lapras-card-->
 
